@@ -1,2 +1,2 @@
 # devops
-devops related stuff
+devops training tasks
